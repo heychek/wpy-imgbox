@@ -1,0 +1,28 @@
+{
+  "name": "wpy-imgbox",
+  "version": "1.0.0",
+  "description": "wepy 框架下的小程序单张图片显示组件",
+  "main": "ImgList.wpy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:hckisagoodboy/wpy-imgbox.git"
+  },
+  "keywords": [
+    "imglist", "wepy"
+  ],
+  "author": "kevin",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-1": "^6.16.0"
+  },
+  "bugs": {
+    "url": "https://github.com/hckisagoodboy/wpy-imgbox/issues"
+  },
+  "homepage": "https://github.com/hckisagoodboy/wpy-imgbox#readme"
+}
